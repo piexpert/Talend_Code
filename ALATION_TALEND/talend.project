@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_c2_8kbIgEe2dNcfpWzfNEQ" label="Alation_Talend" description="Talend Code Repo" language="java" technicalLabel="ALATION_TALEND" author="_c2_8krIgEe2dNcfpWzfNEQ" productVersion="Talend Cloud Data Fabric-8.0.1.20230117_1223-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/piexpert/Talend_Code.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_c38-0LIgEe2dNcfpWzfNEQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_c2_8krIgEe2dNcfpWzfNEQ" login="krishnak@krishnak_logandata_nfr" firstName="Krishna" lastName="K" type="DQ"/>
+</xmi:XMI>
